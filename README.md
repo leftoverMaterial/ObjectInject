@@ -2,7 +2,7 @@
 
 > 手写的迷你 IoC/DI 容器 + AOP 增强器 —— 个人 Java 学习项目
 
-**当前版本：`v0.1`** ｜ 最后更新：2026-10-13 ｜ 作者：[Zps379268](https://github.com/Zps379268)
+**当前版本：`v0.1`** ｜ 最后更新：2026-10-13 ｜ 作者：[leftoverMaterial](https://github.com/leftoverMaterial)
 
 ---
 
