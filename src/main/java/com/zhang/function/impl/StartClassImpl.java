@@ -8,6 +8,9 @@ import java.net.URL;
 import java.util.ArrayList;
 
 public class StartClassImpl implements StartClass {
+    /**
+     * 启动容器：按「定位包目录 -> 扫描类 -> 装配注入」三步编排。
+     */
     @Override
     public void start() throws Exception{
         GetCatalog getCatalogImpl = new GetCatalogImpl();
